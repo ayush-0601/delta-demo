@@ -1,2 +1,2 @@
 # delta-demo
-this is for git and github basics
+this is for git and github basics.
